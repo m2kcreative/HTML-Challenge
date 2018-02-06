@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>Building Your First HTML 5 Website</title>
+</head>
+<body>
+	<h1>Build Your Own HTML website</h1>
+	<p> <strong>It's easier than ever to start building your own website. <br>
+	All you have to do is follow the instructions below...</strong></p>
+	<h2> Getting Started</h2>
+	<p> Here are some tools you'll want to have ready:</p>
+
+	<ul>
+		<li><a href="https://www.sublimetext.com/3"> Download Sublime Text 3</a></li>
+		<li><a href="https://www.w3schools.com/html/default.asp"> Bookmark W3Schools</a> for future reference</li>
+	</ul>
+	<h2> Watch Your Lessons</h2>
+		<p> Once you've downloaded the Sublime Text 3 tool, you're ready to start learning. Each video lesson will walk you through the basics of coding. For additional information, you can always refer to the <a href="https://www.w3schools.com/html/default.asp"> W3Schools</a> for additional support. </p>
+
+	<!-- Videos embedded from YouTube -->
+
+	<h2>Video Lessons</h2>
+		<p><strong>Lesson 1</strong></p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/9gTw2EDkaDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	
+		<p><strong>Lesson 2</strong></p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/YcApt9RgiT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+
+	<center>
+		<img src="http://www.myrefugecity.org/uploads/7/9/0/5/7905659/need-help_orig.png" alt="Need Help" height="150" width="200">
+		<br>
+		<a href=file:///C:/Users/RBailey/Desktop/RequestHelpForm.html> Request Help Here</a></center>
+</body>
+<footer>
+	<center>
+		 <p>&copy; 2010-2018 First HTML Site | <a href=file:///C:/Users/RBailey/Desktop/about.html> About Us</a> | <a href=https://www.contractology.com/free-website-disclaimer.html> Terms & Legal Policy
+		 	</p>
+		 	</a>
+		</center>
+</footer>
+</html>
